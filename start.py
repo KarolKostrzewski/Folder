@@ -1,5 +1,5 @@
 print("start")
 x=15
 print(x)
-c="cokolwiek"
-print(c)
+print(x+2)
+print(x*2)
